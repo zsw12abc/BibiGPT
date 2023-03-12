@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.5.0](https://github.com/JimmyLv/BibiGPT/compare/v1.4.0...v1.5.0) (2023-03-12)
+
+
+### Features
+
+* support avid video ([45f227c](https://github.com/JimmyLv/BibiGPT/commit/45f227c3ebed667e4562480576afaa8e9a78aff9))
+* support b23tv short url ([32fcb3e](https://github.com/JimmyLv/BibiGPT/commit/32fcb3e9aff5a6fbd969317be9e5bca9e19c8441))
+* support multiple parts of video ([64344a3](https://github.com/JimmyLv/BibiGPT/commit/64344a35e65962604ef0cf498658b516b0818b35))
+* update the polished prompt ([6947c33](https://github.com/JimmyLv/BibiGPT/commit/6947c338d286234a58ecf6dec13af3893fc85c09))
+* updated the timestamp prompt ([a6b7fcc](https://github.com/JimmyLv/BibiGPT/commit/a6b7fcc234fcef502743691d57da7c54a005f886))
+
+
+### Bug Fixes
+
+* add assistant example for better result ([933b735](https://github.com/JimmyLv/BibiGPT/commit/933b73578538551be568aadbc1457908b4b5b409))
+* increase the merge count ([0217b4c](https://github.com/JimmyLv/BibiGPT/commit/0217b4cc309f3d9544badb0fb344530462e2b732))
+* just switch the checkout url ([88ba363](https://github.com/JimmyLv/BibiGPT/commit/88ba36376c1881e936355ca970a21b7ad6e16bb0))
+* only convert for b23.tv url ([a89c348](https://github.com/JimmyLv/BibiGPT/commit/a89c348df10f034888f75f54947a5e3469e77f8d))
+* polished the url logic ([268acae](https://github.com/JimmyLv/BibiGPT/commit/268acae8d54fd5e647cd7444028bc09d4107e03b))
+* prevent error for undefined subtitleList ([8ca9c06](https://github.com/JimmyLv/BibiGPT/commit/8ca9c06d2ac11756a3abe851942f42c09ed22262))
+* replace the useLocalStorage ([9853cf4](https://github.com/JimmyLv/BibiGPT/commit/9853cf40cf75376b3a3e889b21a5f7bb77570714))
+* return title and other fields ([0f11d0c](https://github.com/JimmyLv/BibiGPT/commit/0f11d0cfbfe37abdfb26505a00054db92f74b0e0))
+* simplified the result with [format] ([f343c59](https://github.com/JimmyLv/BibiGPT/commit/f343c59d8fa2637941fb926cd71a615e015052b4))
+* update the typo word ([fba9a02](https://github.com/JimmyLv/BibiGPT/commit/fba9a02ee26bced5403f6e2872a7cce4d7ac1ce8))
+
 ## [1.4.0](https://github.com/JimmyLv/BibiGPT/compare/v1.3.0...v1.4.0) (2023-03-09)
 
 
